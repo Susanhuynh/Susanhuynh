@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 -->
 
 ![Girl 2 background](https://user-images.githubusercontent.com/10942817/236003569-de7f0df6-f1d6-46c3-9f1b-bce6743f8408.png)
-
 ![Girl background](https://user-images.githubusercontent.com/10942817/236003665-adcb2de2-509d-42be-ba57-e5c5c030e969.png)
 
 
