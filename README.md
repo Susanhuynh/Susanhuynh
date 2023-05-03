@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Girl 2 background](https://user-images.githubusercontent.com/10942817/235996791-24d66223-bbec-4e57-ab48-e7f9e827da82.png)
+![Charlotte Logo](https://user-images.githubusercontent.com/10942817/236001883-e8fc704f-d55f-4057-b95d-bc8a8b5080f9.png)
