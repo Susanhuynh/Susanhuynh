@@ -13,13 +13,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h3 align="center">Hi 👋, I'm Thin Huynh </h3>
+<h1 align="center">Hi 👋, I'm Thin Huynh </h1>
 
----
+<div align="center">
+  <a href="https://www.linkedin.com/in/thinhuynh/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
 
 ![Girl background](https://user-images.githubusercontent.com/10942817/236003665-adcb2de2-509d-42be-ba57-e5c5c030e969.png)
 
-[![Visitor](https://visitor-badge.laobi.icu/badge?page_id=Susanhuynh.building_dimentional_datawarehouse)](https://github.com/Susanhuynh) [![GitHub followers](https://img.shields.io/github/followers/Susanhuynh.svg?style=social&label=Follow)](https://github.com/Susanhuynh?tab=followers)
+I am Thin Huynh, a Data Analyst/Analytic Engineer living in Helsinki, Finland.
 
+- *Currently*
+- *Previous*: 
 
 
