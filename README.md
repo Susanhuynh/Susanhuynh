@@ -1,5 +1,4 @@
-### Hello and Welcome 👋
----
+
 <!--
 **Susanhuynh/Susanhuynh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,10 +13,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<h3 align="center">Hi 👋, I'm Thin Huynh </h3>
 
-![Girl 2 background](https://user-images.githubusercontent.com/10942817/236003569-de7f0df6-f1d6-46c3-9f1b-bce6743f8408.png)
+---
+
 ![Girl background](https://user-images.githubusercontent.com/10942817/236003665-adcb2de2-509d-42be-ba57-e5c5c030e969.png)
 
+[![Visitor](https://visitor-badge.laobi.icu/badge?page_id=Susanhuynh.building_dimentional_datawarehouse)](https://github.com/Susanhuynh) [![GitHub followers](https://img.shields.io/github/followers/Susanhuynh.svg?style=social&label=Follow)](https://github.com/Susanhuynh?tab=followers)
 
-<h1 align="center">Hi 👋, I'm Thin Huynh</h1>
-<h3 align="center">A passionate DA from Helsinki, Finland</h3>
+
+
