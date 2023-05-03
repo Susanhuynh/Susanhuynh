@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div align="center">![Charlotte Logo](https://user-images.githubusercontent.com/10942817/236001883-e8fc704f-d55f-4057-b95d-bc8a8b5080f9.png)</div>
+<img align="center">![Charlotte Logo](https://user-images.githubusercontent.com/10942817/236001883-e8fc704f-d55f-4057-b95d-bc8a8b5080f9.png)</img>
 
 <h1 align="center">Hi 👋, I'm Thin Huynh</h1>
 <h3 align="center">A passionate DA from Helsinki, Finland</h3>
