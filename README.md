@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 I am Thin Huynh, a Data Analyst/Analytic Engineer living in Helsinki, Finland.
 
-- *Currently*
-- *Previous*: 
+- *Currently*: Data Analyst/Analytic Engineer
+- *Previously*: MS Information of Service Management at Aalto University
 
 
