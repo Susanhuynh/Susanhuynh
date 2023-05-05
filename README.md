@@ -28,4 +28,33 @@ I am Thin Huynh, a Data Analyst/Analytic Engineer living in Helsinki, Finland.
 - *Currently*: Data Analyst/Analytic Engineer
 - *Previously*: MS Information of Service Management at Aalto University
 
+### Here is my core competencies: 
+<table border="0">
+
+ <tr>
+   <td>- Database: SQL </br>
+       - Data modeling with dbt </br>
+       - Microsoft Power IB Analyst Associate </br>
+       - Front-end web development </br>
+       - Other BI tools: Google Analytics, Google Tag Management, Tableau, Amplitude
+   </td>
+   <td>- Agile leadership or scrum master Agile software development </br>
+       - Digital marketing domain </br>
+       - Predictive Analytics: statistical modeling </br>
+       - Quick-learner
+   </td>
+ </tr>
+</table>
+
+</br>
+<h1> How to reach me 🧘🏻‍♀️ </h1>
+If you want to discuss or ask anything, please feel free to drop a line. I play badminton every week and board game sometimes , you can join if you want. 
+
+- Check out my blog: [www.charlottethu.com](www.charlottethu.com)
+- My email: nhocgacon@gmail.com
+
+
+
+
+
 
