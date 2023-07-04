@@ -32,7 +32,7 @@ I am Thin Huynh, a Data Analyst/Analytic Engineer living in Helsinki, Finland.
 <table border="0">
 
  <tr>
-   <td>- Database: SQL </br>
+   <td>- Database: SQL, Python </br>
        - Data modeling with dbt </br>
        - Microsoft Power IB Analyst Associate </br>
        - Front-end web development </br>
